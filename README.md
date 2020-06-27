@@ -20,7 +20,7 @@ Install all the required python package dependencies using the command below :
 Run the web server (the web server provided by Flask is not meant for production use) and Flask application using
 the command below :
 
-*python3 manage.py runserver*
+*python3 app.py runserver*
 
 ### Step 4
 
