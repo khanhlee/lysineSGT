@@ -29,4 +29,4 @@ Open a web browser and enter the following url : localhost:5000
 You should see the web server.
 
 ### Please cite our paper as:
->Sua, J.N., Lim, S.Y., Yulius, M.H., Su, X., Yapp, E.K.Y., Le, N.Q.K., Yeh, H.Y., & Chua, M.C.H. (2020). "Incorporating convolutional neural networks and sequence graph transform for identifying multilabel protein Lysine PTM sites." Chemometrics and Intelligent Laboratory Systems, 206, 104171. https://doi.org/10.1016/j.chemolab.2020.104171
+>Sua, J.N., Lim, S.Y., Yulius, M.H., Su, X., Yapp, E.K.Y., Le, N.Q.K., Yeh, H.Y., & Chua, M.C.H. (2020). "Incorporating convolutional neural networks and sequence graph transform for identifying multilabel protein Lysine PTM sites." *Chemometrics and Intelligent Laboratory Systems*, 206, 104171. https://doi.org/10.1016/j.chemolab.2020.104171
